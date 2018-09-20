@@ -33,7 +33,7 @@ hr {
 .navbar-brand {
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-weight: 400;
+  font-weight: 900;
 }
 
 .navbar-nav {
@@ -47,7 +47,7 @@ hr {
 }
 
 .brand-name {
-  font-weight: 700;
+  font-weight: 400;
   font-size: 1.5em;
   text-transform: capitalize;
   letter-spacing: normal;
