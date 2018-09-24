@@ -183,3 +183,8 @@ footer p {
   color: #fff;
   padding: 0 0 35px;
 }
+
+.figure {
+  border: 1px;
+  padding: 3px;
+}
