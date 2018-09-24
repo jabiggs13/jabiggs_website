@@ -175,3 +175,10 @@ footer p {
         clear: both;
     }
 }
+
+
+.title {
+  font-size: 3em;
+  line-height: 1.6;
+  color: #fff;
+}
